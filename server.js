@@ -11,7 +11,7 @@ const welcomeMessage = {
   id: 0,
   from: "Bart",
   text: "Welcome to CYF chat system!",
-  timeSent: req.body.timeSent 
+  //timeSent: req.body.timeSent 
 }
 
 //This array is our "data store".
